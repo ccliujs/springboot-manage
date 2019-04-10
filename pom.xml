@@ -7,11 +7,11 @@
     <artifactId>jesper</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <!-- <packaging>war</packaging>  -->
-    <packaging>jar</packaging>
+    <!-- <packaging>jar</packaging>  -->
+    <packaging>war</packaging>
 
-    <name>jesper</name>
-    <description>jesper</description>
+    <name>mids</name>
+    <description>mids</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
